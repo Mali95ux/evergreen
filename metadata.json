@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Evergreen Shop",
+  "description": "A premium, eco-conscious e-commerce destination featuring AI-powered shopping assistance and a seamless experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
